@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"tra",
+				"translate()"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"conta",
+				"contactForm"
+			],
+			[
+				"ca",
+				"contactForm"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"con",
+				"contactInfo"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"hr",
+				"hr"
+			],
+			[
+				"tranfo",
+				"transform"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"sc",
+				"scaleY()"
+			],
+			[
+				"e",
+				"row-reverse"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"v",
+				"video"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bacck",
+				"background-color"
+			],
+			[
+				"transt",
+				"transition"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/LAGAYA/Desktop/SLAC/Lagayaa.html",
+		"/C/Users/LAGAYA/Desktop/SLAC/regform.css",
+		"/C/Users/LAGAYA/Desktop/Website/css/basicinformation.html",
+		"/C/Users/LAGAYA/Desktop/SLAC/golms.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/homestyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/home.html",
+		"/C/Users/LAGAYA/Desktop/SLAC/css/homslac.css",
+		"/C/Users/LAGAYA/Desktop/SLAC/homeslac.html",
+		"/C/Users/LAGAYA/Desktop/SLAC/CS web.html",
+		"/C/Users/LAGAYA/Desktop/golms/javascrpt/golms.js",
+		"/C/Users/LAGAYA/Desktop/SLAC/glem.css",
+		"/C/Users/LAGAYA/Desktop/SLAC/glem.html",
+		"/C/Users/LAGAYA/Desktop/SLAC/lagaya.html",
+		"/C/Users/LAGAYA/Desktop/SLAC/golms.js",
+		"/C/Users/LAGAYA/Desktop/golms/css/golms.css",
+		"/C/Users/LAGAYA/Desktop/golms/golms.html",
+		"/C/Users/LAGAYA/Desktop/SLAC/glem.sublime-workspace",
+		"/C/Users/LAGAYA/Desktop/SLAC/glem.sublime-project",
+		"/C/Users/LAGAYA/Desktop/SLAC/lagaya.css",
+		"/C/Users/LAGAYA/Desktop/SLAC/CS WEB",
+		"/C/Users/LAGAYA/Desktop/Website/about.html",
+		"/C/Users/LAGAYA/Desktop/import java.util.Scanner;.java",
+		"/C/Users/LAGAYA/Desktop/Exam/exam b.html",
+		"/C/Users/LAGAYA/Desktop/Exam/exam.html",
+		"/C/Users/LAGAYA/Desktop/Website/sweets.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/sweetstyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/breakfast.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/breakfaststyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/contact.html",
+		"/C/Users/LAGAYA/Desktop/Website/music.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/style.css",
+		"/C/Users/LAGAYA/Desktop/Website/coffee.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/coffeestyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/css/teastyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/tea.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/contactstyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/css/aboutstyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/css/gallerystyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/gallery.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/musicstyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/Website.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/menustyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/css/learnstyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/learn.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/videostyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/video.html",
+		"/C/Users/LAGAYA/Desktop/Website/css/servicestyle.css",
+		"/C/Users/LAGAYA/Desktop/Website/Services.html",
+		"/C/Users/LAGAYA/Desktop/Experiment/css/style.css",
+		"/C/Users/LAGAYA/Desktop/Experiment/2nd.html",
+		"/C/Users/LAGAYA/Desktop/Experiment/1st.html",
+		"/C/Users/LAGAYA/Desktop/Website/Service.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Lagayaa.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\LAGAYA\\Desktop\\SLAC\\glem.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
